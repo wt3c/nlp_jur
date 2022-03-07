@@ -30,6 +30,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 bin/
+share/
+include/
 
 
 # PyInstaller
